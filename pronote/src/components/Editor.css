@@ -1,0 +1,23 @@
+body,html {
+    background-color: rgb(69, 69, 249);
+    
+}
+h3{
+margin-left: 50px;
+}
+.input-text{
+    background-color: rgb(69, 69, 249);
+    border: 2px solid black;
+    height: 500px;
+    width: 650px;
+    margin-left: 50px;
+}
+.output-text{
+    background-color:rgb(59, 49, 49);
+    width: 500px;
+    height: 600px;
+}
+.container{
+    display: flex;
+    gap: 20px
+}
